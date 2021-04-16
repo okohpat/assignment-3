@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.patricia-cv {
+
+    text-align: center;
+    background-color:rgb(255, 240, 251);
+    padding: 45px 30px 50px 30px;
+}
+.heading {
+    font-size: 60px;
+    margin-bottom: 30px;
+    padding-top: 1px;
+
+}
+
+.heading-text {
+    font-size: 24px;
+}
+
+.information-heading {
+
+    padding: 0px 10px 1px 10px;
+    font-style:normal;
+    text-align: center;
+    
+} 
+
+.personal {
+
+    max-width: 700px;
+    margin: 50px auto 0;
+}
+
+.personal-list-item {
+
+    text-align: left;
+    font-size: 14px;
+}
+
+.experience {
+
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.experience-item {
+
+    text-align: left;
+    font-size: 14px;
+}
+
+.education {
+
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.education-item {
+
+    text-align: left;
+    font-size: 14px;
+}
+
+.skills {
+
+    max-width: 700px;
+    margin:50px auto;
+}
+
+.skills-item {
+
+    text-align: left;
+    font-size: 14px;
+}
+
+.attributes {
+
+    max-width: 700px;
+    margin: 50px auto;
+
+}
+
+.attributes-item {
+
+    text-align: left;
+    font-size: 14px;
+}
+
+.hobbies {
+
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.hobbies-item {
+
+    text-align: left;
+    font-size: 14px;
+}
